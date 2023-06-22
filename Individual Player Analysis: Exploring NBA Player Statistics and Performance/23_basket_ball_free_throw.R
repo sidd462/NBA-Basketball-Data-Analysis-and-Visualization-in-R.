@@ -1,22 +1,8 @@
-#Dear Student,
-#
-#Welcome to the dataset for the homework exercise.
-#
-#Instructions for this dataset:
-# You have only been supplied vectors. You will need
-# to create the matrices yourself.
+
 # Matrices:
 # - FreeThrows
 # - FreeThrowAttempts
-#
-#Sincerely,
-#Kirill Eremenko
-#www.superdatascience.com
 
-#Copyright: These datasets were prepared using publicly available data.
-#           However, theses scripts are subject to Copyright Laws. 
-#           If you wish to use these R scripts outside of the R Programming Course
-#           by Kirill Eremenko, you may do so by referencing www.superdatascience.com in your work.
 
 #Comments:
 #Seasons are labeled based on the first year in the season
